@@ -2,4 +2,3 @@ tekst1
 
 izmjena1
 izmjena2
-izmjena3
